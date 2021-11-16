@@ -1,9 +1,17 @@
-### Olá! eu sou o Wesley Sousa 👋
+
+<h1 align="center"> 👋 Olá! eu sou o Wesley Sousa, seja bem-vindo ao meu portfólio!</h1>
+
+
+💻 Atualmente estou aberto para trabalho.
+
+✍ Possuo conhecimento em: SQL, Python, Microsoft Power BI, Estátistica, Google Data Studio.
+
+💬 Sobre o futuro: Pretendo ser um especialista em Data Analytics.
+##
 
 <div align="center">
   <a href="https://github.com/wesleysousa00">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wesleysousa00&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wesleysousa00&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 <div style="display: inline_block"><br>
@@ -11,9 +19,6 @@
   <img align="center" alt="Wesley-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Wesley-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
   <img align="center" alt="Wesley-Pandas" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" />
-  <img align="center" alt="Wesley-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Wesley-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Wesley-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
   
   ##
