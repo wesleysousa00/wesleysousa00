@@ -1,12 +1,22 @@
 
-<h1 align="center"> 👋 Olá! eu sou o Wesley Sousa, seja bem-vindo ao meu portfólio!</h1>
+<h1 align="center"> 👋 Olá! seja bem-vindo ao meu portfólio!</h1>
 
 
-💻 Atualmente estou aberto para trabalho.
+Meu nome é Wesley Sousa, tenho 28 anos, estou me formando em Ciência de Dados, e sou apaixonado pelo mundos dos dados.
 
-✍ Possuo conhecimento em: SQL, Python, Microsoft Power BI, Estátistica, Google Data Studio.
+💻 Atualmente estou trabalhando com Business Intelligence Analytics no Grupo Euax.
 
-💬 Sobre o futuro: Pretendo ser um especialista em Data Analytics.
+✍ Tecnologias que eu uso no meu dia a dia
+<div style="display: inline_block"><br/>
+  <img align="center" alt="Python" heigth="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  <img align="center" alt="MySQL" heigth="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
+  <img align="center" alt="PostgreSQL" heigth="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg">
+  <img align="center" alt="Wesley-Jupyter" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
+  <img align="center" alt="Wesley-Pandas" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" />
+  <img align="center" alt="Wesley-Pandas" height="50" width="50" src="https://img.icons8.com/fluency/48/000000/anaconda--v2.png"/>
+  <img align="center" alt="Wesley-Pandas" height="90" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg" />
+  <img align="center" alt="Wesley-Pandas" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />                                                     
+ 
 ##
 
 <div align="center">
