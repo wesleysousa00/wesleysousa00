@@ -23,13 +23,6 @@ Meu nome é Wesley Sousa, tenho 28 anos, estou me formando em Ciência de Dados,
   <a href="https://github.com/wesleysousa00">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wesleysousa00&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </div>
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="Wesley-Jupyter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
-  <img align="center" alt="Wesley-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Wesley-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-  <img align="center" alt="Wesley-Pandas" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" />
-</div>
   
   ##
   
