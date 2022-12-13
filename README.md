@@ -2,9 +2,9 @@
 <h1 align="center"> 👋 Olá! seja bem-vindo ao meu portfólio!</h1>
 
 
-Meu nome é Wesley Sousa, tenho 28 anos, estou me formando em Ciência de Dados, e sou apaixonado pelo mundos dos dados.
+Meu nome é Wesley Sousa, tenho 29 anos, sou formado em Ciência de Dados, e sou apaixonado pelo mundos dos dados.
 
-💻 Atualmente estou trabalhando com Business Intelligence Analytics no Grupo Euax.
+💻 Atualmente estou trabalhando como Engenheiro de Dados na Blueshift Brasil.
 
 ✍ Tecnologias que eu uso no meu dia a dia
 <div style="display: inline_block"><br/>
