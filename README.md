@@ -4,7 +4,7 @@
 
 Meu nome é Wesley Sousa, tenho 29 anos, sou formado em Ciência de Dados, e sou apaixonado pelo mundos dos dados.
 
-💻 Atualmente estou trabalhando como Engenheiro de Dados na Blueshift Brasil.
+💻 Atualmente estou trabalhando como Engenheiro de Dados.
 
 ✍ Tecnologias que eu uso no meu dia a dia
 <div style="display: inline_block"><br/>
